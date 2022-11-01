@@ -20,7 +20,7 @@ Hi! ;) My name is Alexander Abraham and I am a student from Vienna, Austria. I s
 - Three.js: I use this to make interesting stuff happen in the browser, mainly in 3D form.
 
 If you would like to work with me, shoot me a message either [here](https://twitter.com/angeldollface66) or [here](mailto:youreccentricity@outlook.com).
-If you would like to have a look at some sites that I have published and whose domains I own, check out these two:
+If you would like to have a look at some sites that I have published and whose domains I own, check them out below:
 
 - [A doll's website](https://angeldollface.art) :dolls: :ribbon:
 - [ZConv: A preddy lil' Vue.js app to convert between numbers of different bases.](https://angeldollface.art/zconv) :ribbon: :rocket: :heart_on_fire: :unicorn:
