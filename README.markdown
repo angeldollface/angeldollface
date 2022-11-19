@@ -27,6 +27,13 @@ If you would like to have a look at some sites that I have published and whose d
 - [CMatch: A small color matching app written in Vue.js.](https://angeldollface.art/cmatch) :art: :artist:
 - [VCheck: Check your passwords from anywhere.](https://angeldollface.art/vcheck) :ribbon: :rocket:
 
+Nota bene: If you want to run my NPX greeting card, make sure you have Node.js installed and available from the command line!
+To run my greeting card, simply run the command below:
+
+```bash
+npx git+https://github.com/angeldollface/angeldollface.js
+```
+
 Sincerely,
 
 \- ***Angel Dollface*** :dolls: :ribbon:
