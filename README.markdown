@@ -31,7 +31,7 @@ Nota bene: If you want to run my NPX greeting card, make sure you have Node.js i
 To run my greeting card, simply run the command below:
 
 ```bash
-npx git+https://github.com/angeldollface/angeldollface.js
+npx angeldollface
 ```
 
 Sincerely,
