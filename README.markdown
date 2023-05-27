@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://angeldollface.art/assets/images/site/banner/banner.png"/>
+ <img src="https://angeldollface.art/doll-cdn/images/site/banner/banner.png"/>
 </p>
 
 # ***Everyone's favorite doll! :dolls: :ribbon:***
@@ -19,13 +19,12 @@ Hi! ;) My name is Alexander Abraham and I am a student from Vienna, Austria. I s
 - React.js: I use this because it is the gold standard apparently.
 - Three.js: I use this to make interesting stuff happen in the browser, mainly in 3D form.
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=angeldollface)]
+
 If you would like to work with me, shoot me a message either [here](https://twitter.com/angeldollface66) or [here](mailto:youreccentricity@outlook.com).
 If you would like to have a look at some sites that I have published and whose domains I own, check them out below:
 
 - [A doll's website](https://angeldollface.art) :dolls: :ribbon:
-- [ZConv: A preddy lil' Vue.js app to convert between numbers of different bases.](https://angeldollface.art/zconv) :ribbon: :rocket: :heart_on_fire: :unicorn:
-- [CMatch: A small color matching app written in Vue.js.](https://angeldollface.art/cmatch) :art: :artist:
-- [VCheck: Check your passwords from anywhere.](https://angeldollface.art/vcheck) :ribbon: :rocket:
 
 Nota bene: If you want to run my NPX greeting card, make sure you have Node.js installed and available from the command line!
 To run my greeting card, simply run the command below:
