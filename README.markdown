@@ -19,7 +19,9 @@ Hi! ;) My name is Alexander Abraham and I am a student from Vienna, Austria. I s
 - React.js: I use this because it is the gold standard apparently.
 - Three.js: I use this to make interesting stuff happen in the browser, mainly in 3D form.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=angeldollface)]
+<p align="center">
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=angeldollface"/>
+</p>
 
 If you would like to work with me, shoot me a message either [here](https://twitter.com/angeldollface66) or [here](mailto:youreccentricity@outlook.com).
 If you would like to have a look at some sites that I have published and whose domains I own, check them out below:
