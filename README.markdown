@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://angeldollface.art/doll-cdn/images/site/banner/banner.png"/>
+ <img src="https://angeldollface.art/doll-cdn/images/site/banner/kawaii.png"/>
 </p>
 
 # ***Everyone's favorite doll! :dolls: :ribbon:***
